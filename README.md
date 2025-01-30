@@ -8,16 +8,17 @@ Second one is solution by the original author.
 My solution(s) is with comments and is meant to be explanatory and easy to read.
 Feel free to use my solution as you want and post credits if you feel it.
 
-Here I am providing the links of leetcode
+Links on leetcode
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/)
  
 [2. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
+[3. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the original author below.
 
-# Original Source of the list
+Original Source of the list
 https://www.udemy.com/course/blind-75-leetcode-questions-ace-algorithms-coding-interview/
