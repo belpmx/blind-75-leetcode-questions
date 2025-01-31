@@ -16,6 +16,8 @@ Links on leetcode
 
 [3. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
+[4. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the original author below.
