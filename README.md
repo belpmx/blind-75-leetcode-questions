@@ -1,14 +1,14 @@
 # Blind 75 LeetCode Questions
 Curated List of Top 75 LeetCode Questions
 
-Structure, you will find a jafa file with two classes
+Structure, you will find a java file with two classes
 First one is my solution.
 Second one is solution by the original author.
 
 My solution(s) is with comments and is meant to be explanatory and easy to read.
 Feel free to use my solution as you want and post credits if you feel it.
 
-Links on leetcode
+Links on LeetCode
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/)
  
@@ -18,6 +18,7 @@ Links on leetcode
 
 [4. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
+[5. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the original author below.
