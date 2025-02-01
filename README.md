@@ -19,6 +19,9 @@ Links on LeetCode
 [4. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 [5. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+[6. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the original author below.
