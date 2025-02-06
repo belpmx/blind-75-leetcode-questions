@@ -24,6 +24,10 @@ Links on LeetCode
 
 [7. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
+[8. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+[9. 3Sum](https://leetcode.com/problems/3sum/description/)
+
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the initial list and solution based.
