@@ -32,9 +32,13 @@ Links on LeetCode
 
 [11. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 
-[12.Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+[12. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 
-[50.Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+[50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+[53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+
+[55. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the initial list and solution based.
