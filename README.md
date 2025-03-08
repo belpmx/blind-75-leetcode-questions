@@ -42,6 +42,8 @@ Links on LeetCode
 
 [56. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 
+[59. Encode and Decode Strings](https://www.lintcode.com/problem/659/description)
+
 Note: This is an ongoing activity and might take unknown amount of time to be completed.
 
 Please see credits on the initial list and solution based.
