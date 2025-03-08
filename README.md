@@ -34,6 +34,8 @@ Links on LeetCode
 
 [12. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 
+[16. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
