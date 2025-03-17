@@ -40,6 +40,8 @@ Links on LeetCode
 
 [18. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
+[19. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
