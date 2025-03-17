@@ -38,6 +38,8 @@ Links on LeetCode
 
 [17. Coin Change](https://leetcode.com/problems/coin-change/description/)
 
+[18. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
