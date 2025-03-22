@@ -42,6 +42,8 @@ Links on LeetCode
 
 [19. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
+[21. Word Break](https://leetcode.com/problems/word-break/description/)
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
