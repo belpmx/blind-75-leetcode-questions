@@ -46,6 +46,8 @@ Links on LeetCode
 
 [21. Word Break](https://leetcode.com/problems/word-break/description/)
 
+[22. House Robber](https://leetcode.com/problems/house-robber/)
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
