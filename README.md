@@ -42,6 +42,8 @@ Links on LeetCode
 
 [19. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
+[20. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
+
 [21. Word Break](https://leetcode.com/problems/word-break/description/)
 
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
