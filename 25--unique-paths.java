@@ -44,12 +44,13 @@ of unique combinations of these choices (which eventually leads to unique paths)
 This is nothing but calculating the number of different ways to choose m-1 down-moves and n-1 right-moves
 from a total of m+n-2 moves.
      */
-        long result =1;//calculation might exceed range of int
+        long result = 1;//calculation might exceed range of int
         //calculate the total number of moves
-        for (int i = m+n-2, j=1; i >= Math.max(m,n);i--, j++ ){
-            result = (result*i)/j;
+        for (int i = m + n - 2, j = 1; i >= Math.max(m, n); i--, j++) {
+            result = (result * i) / j;
         }
         return (int) result;
+    }
 }
 
 
@@ -72,7 +73,7 @@ from a total of m+n-2 moves.
 
 
 class Solution25 {
-    public int uniquePaths(int m, int n) {
+     int uniquePaths(int m, int n) {
         int[][] grid = new int[m][n];
         grid[0][0] = 1;
         
