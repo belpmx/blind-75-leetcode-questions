@@ -50,6 +50,8 @@ Links on LeetCode
 
 [23. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 
+[25. Unique Paths](https://leetcode.com/problems/unique-paths/)
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
