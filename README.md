@@ -52,6 +52,10 @@ Links on LeetCode
 
 [25. Unique Paths](https://leetcode.com/problems/unique-paths/)
 
+[26. Jump Game](https://leetcode.com/problems/jump-game/description/)
+
+
+
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [53. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
