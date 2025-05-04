@@ -54,7 +54,7 @@ Links on LeetCode
 
 [26. Jump Game](https://leetcode.com/problems/jump-game/description/)
 
-
+[35. Insert Interval](https://leetcode.com/problems/insert-interval/description/)
 
 [50. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
